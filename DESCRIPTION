@@ -6,6 +6,10 @@ Authors@R:
            family = "Good",
            role = c("aut", "cre"),
            email = "onit.good+suistats@gmail.com")
+    person(given = "Jayson",
+           family = "Danton",
+           role = c("ctb", "cre"),
+           email = "onit.good+suistats@gmail.com")
 Description: Collects some functions that might faciliate the use of data from the Federal Statistical Office in Switzerland. Also provides some functions to deal with spatial data in this context.
 License: What license it uses
 Encoding: UTF-8
